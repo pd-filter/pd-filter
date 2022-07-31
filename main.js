@@ -39,6 +39,3 @@ function fontCheck(font, param) {
     })
   })
 }
-
-throughDirectory('../');
-fontCheck('Times');
